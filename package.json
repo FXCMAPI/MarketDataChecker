@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "clean": "rimraf dist/",
+    "prestart": "npm run clean && npm run build",
+    "start": "node ./dist/get_offers.js",
+    "build": "npx tsc --build"
+  },
+  "dependencies": {
+    "@gehtsoft/traduAPI-node": ">=1.2.3",
+    "commander": "^12.1.0",
+    "dotenv": "^16.4.5",
+    "nodemailer": "^6.9.15"
+  },
+  "devDependencies": {
+    "@gehtsoft/eslint-config-typescript": "^0.0.3",
+    "@types/node": "^20.12.13",
+    "rimraf": "5.0.7",
+    "ts-node": "^10.9.2",
+    "typescript": "5.4.5"
+  }
+}
