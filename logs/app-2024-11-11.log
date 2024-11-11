@@ -1,0 +1,269 @@
+2024-11-11T18:34:43.708Z - Login...
+2024-11-11T18:34:43.760Z - Connection status changed. Connecting
+2024-11-11T18:34:46.809Z - Connection status changed. Connected
+2024-11-11T18:34:46.809Z - Load offers...
+2024-11-11T18:34:48.096Z - US30: update in 0.321 seconds
+2024-11-11T18:34:48.624Z - GBP/USD: update in 0.243 seconds
+2024-11-11T18:34:48.640Z - US30: update in 0.809 seconds
+2024-11-11T18:34:48.994Z - GBP/USD: update in 0.245 seconds
+2024-11-11T18:34:49.012Z - US30: update in 0.249 seconds
+2024-11-11T18:34:49.219Z - MSFT.us: update in 0.654 seconds
+2024-11-11T18:34:49.357Z - GBP/USD: update in 0.698 seconds
+2024-11-11T18:34:49.567Z - MSFT.us: update in 0.226 seconds
+2024-11-11T18:34:49.664Z - US30: update in 0.774 seconds
+2024-11-11T18:34:49.736Z - GBP/USD: update in 0.315 seconds
+2024-11-11T18:34:49.935Z - MSFT.us: update in 0.16 seconds
+2024-11-11T18:34:50.050Z - US30: update in 0.394 seconds
+2024-11-11T18:34:50.426Z - US30: update in 0.141 seconds
+2024-11-11T18:34:50.786Z - US30: update in 0.524 seconds
+2024-11-11T18:34:51.151Z - US30: update in 0.293 seconds
+2024-11-11T18:34:51.746Z - US30: update in 0.695 seconds
+2024-11-11T18:34:52.935Z - MSFT.us: update in 3.342 seconds
+2024-11-11T18:34:53.332Z - MSFT.us: update in 0.147 seconds
+2024-11-11T18:34:53.518Z - US30: update in 1.814 seconds
+2024-11-11T18:34:53.601Z - GBP/USD: update in 3.753 seconds
+2024-11-11T18:34:53.693Z - MSFT.us: update in 0.493 seconds
+2024-11-11T18:34:53.880Z - US30: update in 0.314 seconds
+2024-11-11T18:34:53.967Z - EUR/USD: update in 0.392 seconds
+2024-11-11T18:34:54.239Z - US30: update in 0.396 seconds
+2024-11-11T18:34:54.620Z - US30: update in 0.204 seconds
+2024-11-11T18:34:55.067Z - US30: update in 0.625 seconds
+2024-11-11T18:34:56.566Z - MSFT.us: update in 2.988 seconds
+2024-11-11T18:34:56.569Z - US30: update in 1.512 seconds
+2024-11-11T18:34:56.599Z - USD/JPY: update in 0.259 seconds
+2024-11-11T18:34:56.968Z - MSFT.us: update in 0.178 seconds
+2024-11-11T18:34:56.969Z - US30: update in 0.009 seconds
+2024-11-11T18:34:57.018Z - USD/JPY: update in 0.372 seconds
+2024-11-11T18:34:57.187Z - Subscribe to EUR/USD
+2024-11-11T18:34:57.190Z - Subscribe to USD/JPY
+2024-11-11T18:34:57.190Z - Subscribe to SPX500
+2024-11-11T18:34:57.190Z - Subscribe to GER30
+2024-11-11T18:34:57.190Z - Subscribe to ETH/BTC
+2024-11-11T18:34:57.190Z - Subscribe to BTC/USD
+2024-11-11T18:34:57.190Z - Subscribe to XAU/USD
+2024-11-11T18:34:57.190Z - Subscribe to XAG/USD
+2024-11-11T18:34:57.190Z - Subscribe to AAPL.us
+2024-11-11T18:34:57.190Z - Subscribe to QQQ.us
+2024-11-11T18:34:57.190Z - Subscribe to TSLA.us
+2024-11-11T18:34:57.190Z - Subscribe to SPY.us
+2024-11-11T18:34:57.190Z - Subscribe to USDOLLAR
+2024-11-11T18:34:57.191Z - Subscribe to GOOG.ext
+2024-11-11T18:34:57.191Z - Subscribe to GOOG.us
+2024-11-11T18:34:57.191Z - Subscribe to WHEATF
+2024-11-11T18:34:57.191Z - Subscribe to SOYF
+2024-11-11T18:34:57.191Z - Subscribe to CoffeeNYF
+2024-11-11T18:34:57.191Z - Subscribe to Copper
+2024-11-11T18:34:57.191Z - Subscribe to SugarNYF
+2024-11-11T18:34:57.392Z - MSFT.us: update in 0.52 seconds
+2024-11-11T18:34:57.446Z - US30: update in 0.61 seconds
+2024-11-11T18:34:57.636Z - EUR/USD: update in 0 seconds
+2024-11-11T18:34:57.637Z - Subscribe success
+2024-11-11T18:34:57.766Z - MSFT.us: update in 0.34 seconds
+2024-11-11T18:34:57.810Z - US30: update in 0.617 seconds
+2024-11-11T18:34:57.885Z - USD/JPY: update in 0.929 seconds
+2024-11-11T18:34:57.885Z - GBP/USD: update in 4.269 seconds
+2024-11-11T18:34:58.386Z - MSFT.us: update in 0.43 seconds
+2024-11-11T18:34:58.497Z - USD/JPY: update in 0.382 seconds
+2024-11-11T18:34:58.497Z - GBP/USD: update in 0.622 seconds
+2024-11-11T18:34:58.538Z - Subscribe success
+2024-11-11T18:34:58.537Z - USD/JPY: update in 0 seconds
+2024-11-11T18:34:58.885Z - USD/JPY: update in 0.435 seconds
+2024-11-11T18:34:58.884Z - MSFT.us: update in 0.834 seconds
+2024-11-11T18:34:58.886Z - GBP/USD: update in 0.494 seconds
+2024-11-11T18:34:59.234Z - MSFT.us: update in 0.129 seconds
+2024-11-11T18:34:59.301Z - Subscribe success
+2024-11-11T18:34:59.400Z - US30: update in 1.209 seconds
+2024-11-11T18:34:59.482Z - USD/JPY: update in 0.868 seconds
+2024-11-11T18:35:00.069Z - Subscribe success
+2024-11-11T18:35:00.191Z - US30: update in 0.921 seconds
+2024-11-11T18:35:00.298Z - EUR/USD: update in 6.338 seconds
+2024-11-11T18:35:00.722Z - SPX500: update in 0.637 seconds
+2024-11-11T18:35:00.722Z - US30: update in 0.638 seconds
+2024-11-11T18:35:00.755Z - GBP/USD: update in 1.896 seconds
+2024-11-11T18:35:00.755Z - EUR/USD: update in 0.346 seconds
+2024-11-11T18:35:00.842Z - Subscribe success
+2024-11-11T18:35:01.118Z - MSFT.us: update in 2.092 seconds
+2024-11-11T18:35:01.362Z - EUR/USD: update in 0.315 seconds
+2024-11-11T18:35:01.364Z - USD/JPY: update in 1.722 seconds
+2024-11-11T18:35:01.517Z - US30: update in 0.92 seconds
+2024-11-11T18:35:01.835Z - MSFT.us: update in 0.072 seconds
+2024-11-11T18:35:02.138Z - EUR/USD: update in 0.48 seconds
+2024-11-11T18:35:02.145Z - Subscribe success
+2024-11-11T18:35:02.148Z - US30: update in 0.243 seconds
+2024-11-11T18:35:02.148Z - SPX500: update in 1.219 seconds
+2024-11-11T18:35:02.360Z - MSFT.us: update in 0.71 seconds
+2024-11-11T18:35:02.549Z - EUR/USD: update in 1.021 seconds
+2024-11-11T18:35:02.752Z - US30: update in 0.994 seconds
+2024-11-11T18:35:03.418Z - Subscribe success
+2024-11-11T18:35:03.421Z - SPX500: update in 1.421 seconds
+2024-11-11T18:35:03.422Z - US30: update in 0.492 seconds
+2024-11-11T18:35:03.851Z - EUR/USD: update in 1.372 seconds
+2024-11-11T18:35:03.882Z - US30: update in 0.591 seconds
+2024-11-11T18:35:04.469Z - ETH/BTC: update in 2.573 seconds
+2024-11-11T18:35:04.978Z - MSFT.us: update in 3.055 seconds
+2024-11-11T18:35:05.118Z - US30: update in 1.146 seconds
+2024-11-11T18:35:05.118Z - ETH/BTC: update in 0.31 seconds
+2024-11-11T18:35:05.461Z - MSFT.us: update in 0.535 seconds
+2024-11-11T18:35:05.501Z - ETH/BTC: update in 0.633 seconds
+2024-11-11T18:35:06.102Z - Subscribe success
+2024-11-11T18:35:06.105Z - USD/JPY: update in 4.428 seconds
+2024-11-11T18:35:06.105Z - EUR/USD: update in 1.803 seconds
+2024-11-11T18:35:06.105Z - GBP/USD: update in 4.933 seconds
+2024-11-11T18:35:06.284Z - GER30: update in 5.083 seconds
+2024-11-11T18:35:06.285Z - SPX500: update in 2.444 seconds
+2024-11-11T18:35:06.286Z - US30: update in 1.257 seconds
+2024-11-11T18:35:06.287Z - ETH/BTC: update in 0.741 seconds
+2024-11-11T18:35:06.783Z - US30: update in 0.089 seconds
+2024-11-11T18:35:06.951Z - XAU/USD: update in 0.978 seconds
+2024-11-11T18:35:06.987Z - Subscribe success
+2024-11-11T18:35:07.583Z - GER30: update in 1.777 seconds
+2024-11-11T18:35:07.584Z - US30: update in 0.705 seconds
+2024-11-11T18:35:08.010Z - EUR/USD: update in 2.156 seconds
+2024-11-11T18:35:08.012Z - GBP/USD: update in 2.141 seconds
+2024-11-11T18:35:08.011Z - USD/JPY: update in 2.245 seconds
+2024-11-11T18:35:08.012Z - XAU/USD: update in 0.223 seconds
+2024-11-11T18:35:08.394Z - Subscribe success
+2024-11-11T18:35:08.400Z - USD/JPY: update in 0.213 seconds
+2024-11-11T18:35:08.483Z - ETH/BTC: update in 2.335 seconds
+2024-11-11T18:35:09.471Z - GBP/USD: update in 0.866 seconds
+2024-11-11T18:35:09.471Z - USD/JPY: update in 0.555 seconds
+2024-11-11T18:35:09.471Z - EUR/USD: update in 0.914 seconds
+2024-11-11T18:35:09.471Z - XAU/USD: update in 1.753 seconds
+2024-11-11T18:35:09.549Z - SPX500: update in 3.81 seconds
+2024-11-11T18:35:09.550Z - BTC/USD: update in 10.9 seconds
+2024-11-11T18:35:09.549Z - US30: update in 2.457 seconds
+2024-11-11T18:35:09.549Z - GER30: update in 2.04 seconds
+2024-11-11T18:35:09.551Z - ETH/BTC: update in 0.344 seconds
+2024-11-11T18:35:09.814Z - AAPL.us: update in 0.35 seconds
+2024-11-11T18:35:09.814Z - TSLA.us: update in 0.446 seconds
+2024-11-11T18:35:10.218Z - GER30: update in 0.407 seconds
+2024-11-11T18:35:10.219Z - SPX500: update in 0.335 seconds
+2024-11-11T18:35:10.219Z - US30: update in 0.085 seconds
+2024-11-11T18:35:10.516Z - XAU/USD: update in 1.543 seconds
+2024-11-11T18:35:10.873Z - AAPL.us: update in 0.51 seconds
+2024-11-11T18:35:10.874Z - TSLA.us: update in 1.231 seconds
+2024-11-11T18:35:11.019Z - SPX500: update in 1.18 seconds
+2024-11-11T18:35:11.019Z - US30: update in 1.425 seconds
+2024-11-11T18:35:11.019Z - ETH/BTC: update in 1.331 seconds
+2024-11-11T18:35:11.060Z - Subscribe success
+2024-11-11T18:35:11.284Z - TSLA.us: update in 0.456 seconds
+2024-11-11T18:35:12.037Z - QQQ.us: update in 0 seconds
+2024-11-11T18:35:12.038Z - SPY.us: update in 0 seconds
+2024-11-11T18:35:12.366Z - SPX500: update in 0.851 seconds
+2024-11-11T18:35:12.366Z - GER30: update in 2.13 seconds
+2024-11-11T18:35:12.367Z - US30: update in 1.249 seconds
+2024-11-11T18:35:12.389Z - Subscribe success
+2024-11-11T18:35:12.409Z - TSLA.us: update in 1.045 seconds
+2024-11-11T18:35:12.529Z - QQQ.us: update in 1 seconds
+2024-11-11T18:35:12.558Z - EUR/USD: update in 3.137 seconds
+2024-11-11T18:35:12.558Z - USD/JPY: update in 3.619 seconds
+2024-11-11T18:35:12.558Z - GBP/USD: update in 3.208 seconds
+2024-11-11T18:35:12.559Z - XAG/USD: update in 6.645 seconds
+2024-11-11T18:35:12.559Z - XAU/USD: update in 1.332 seconds
+2024-11-11T18:35:13.028Z - QQQ.us: update in 0 seconds
+2024-11-11T18:35:13.029Z - SPY.us: update in 3 seconds
+2024-11-11T18:35:13.534Z - QQQ.us: update in 1 seconds
+2024-11-11T18:35:13.535Z - SPY.us: update in 1 seconds
+2024-11-11T18:35:14.030Z - SPY.us: update in 0 seconds
+2024-11-11T18:35:14.036Z - QQQ.us: update in 0 seconds
+2024-11-11T18:35:14.267Z - GER30: update in 2.013 seconds
+2024-11-11T18:35:14.268Z - US30: update in 1.659 seconds
+2024-11-11T18:35:14.268Z - SPX500: update in 2.289 seconds
+2024-11-11T18:35:14.268Z - ETH/BTC: update in 3.294 seconds
+2024-11-11T18:35:14.394Z - AAPL.us: update in 3.439 seconds
+2024-11-11T18:35:14.394Z - TSLA.us: update in 2.11 seconds
+2024-11-11T18:35:14.413Z - EUR/USD: update in 1.482 seconds
+2024-11-11T18:35:14.414Z - XAG/USD: update in 0.148 seconds
+2024-11-11T18:35:14.413Z - XAU/USD: update in 1.495 seconds
+2024-11-11T18:35:14.413Z - GBP/USD: update in 1.936 seconds
+2024-11-11T18:35:14.530Z - SPY.us: update in 1 seconds
+2024-11-11T18:35:14.531Z - QQQ.us: update in 1 seconds
+2024-11-11T18:35:14.943Z - SPX500: update in 0.502 seconds
+2024-11-11T18:35:15.009Z - Subscribe success
+2024-11-11T18:35:15.032Z - TSLA.us: update in 0.653 seconds
+2024-11-11T18:35:15.049Z - SPY.us: update in 0 seconds
+2024-11-11T18:35:15.053Z - QQQ.us: update in 0 seconds
+2024-11-11T18:35:15.054Z - GBP/USD: update in 1.032 seconds
+2024-11-11T18:35:15.469Z - ETH/BTC: update in 1.963 seconds
+2024-11-11T18:35:15.590Z - SPY.us: update in 1 seconds
+2024-11-11T18:35:15.590Z - QQQ.us: update in 1 seconds
+2024-11-11T18:35:15.599Z - TSLA.us: update in 0.392 seconds
+2024-11-11T18:35:15.668Z - GBP/USD: update in 0.789 seconds
+2024-11-11T18:35:15.668Z - XAU/USD: update in 2.266 seconds
+2024-11-11T18:35:15.668Z - XAG/USD: update in 2.936 seconds
+2024-11-11T18:35:16.018Z - GER30: update in 1.479 seconds
+2024-11-11T18:35:16.023Z - QQQ.us: update in 0 seconds
+2024-11-11T18:35:16.038Z - SPY.us: update in 0 seconds
+2024-11-11T18:35:16.119Z - Subscribe success
+2024-11-11T18:35:16.123Z - TSLA.us: update in 0.597 seconds
+2024-11-11T18:35:16.532Z - SPY.us: update in 0 seconds
+2024-11-11T18:35:16.532Z - QQQ.us: update in 0 seconds
+2024-11-11T18:35:16.546Z - TSLA.us: update in 0.559 seconds
+2024-11-11T18:35:16.734Z - ETH/BTC: update in 1.345 seconds
+2024-11-11T18:35:16.960Z - Subscribe success
+2024-11-11T18:35:16.965Z - TSLA.us: update in 0.398 seconds
+2024-11-11T18:35:17.023Z - SPY.us: update in 1 seconds
+2024-11-11T18:35:17.356Z - AAPL.us: update in 3.959 seconds
+2024-11-11T18:35:17.356Z - TSLA.us: update in 0.318 seconds
+2024-11-11T18:35:17.501Z - SPX500: update in 2.634 seconds
+2024-11-11T18:35:17.503Z - ETH/BTC: update in 0.672 seconds
+2024-11-11T18:35:17.502Z - BTC/USD: update in 8.199 seconds
+2024-11-11T18:35:17.522Z - QQQ.us: update in 2 seconds
+2024-11-11T18:35:17.523Z - GBP/USD: update in 1.934 seconds
+2024-11-11T18:35:17.534Z - SPY.us: update in 0 seconds
+2024-11-11T18:35:17.664Z - Subscribe success
+2024-11-11T18:35:17.970Z - GOOG.us: update in 1.068 seconds
+2024-11-11T18:35:17.971Z - TSLA.us: update in 0.505 seconds
+2024-11-11T18:35:18.025Z - SPX500: update in 0.735 seconds
+2024-11-11T18:35:18.025Z - QQQ.us: update in 0 seconds
+2024-11-11T18:35:18.024Z - SPY.us: update in 0 seconds
+2024-11-11T18:35:18.026Z - ETH/BTC: update in 0.309 seconds
+2024-11-11T18:35:18.025Z - US30: update in 4.104 seconds
+2024-11-11T18:35:18.027Z - XAU/USD: update in 2.211 seconds
+2024-11-11T18:35:18.026Z - GBP/USD: update in 0.058 seconds
+2024-11-11T18:35:18.026Z - USD/JPY: update in 5.33 seconds
+2024-11-11T18:35:18.331Z - AAPL.us: update in 0.966 seconds
+2024-11-11T18:35:18.332Z - TSLA.us: update in 0.425 seconds
+2024-11-11T18:35:18.414Z - SPX500: update in 0.356 seconds
+2024-11-11T18:35:18.415Z - US30: update in 0.383 seconds
+2024-11-11T18:35:18.484Z - XAU/USD: update in 0.693 seconds
+2024-11-11T18:35:18.501Z - Subscribe success
+2024-11-11T18:35:18.524Z - QQQ.us: update in 1 seconds
+2024-11-11T18:35:18.530Z - SPY.us: update in 0 seconds
+2024-11-11T18:35:18.844Z - GOOG.us: update in 0.838 seconds
+2024-11-11T18:35:18.844Z - TSLA.us: update in 0.362 seconds
+2024-11-11T18:35:18.845Z - GOOG.ext: update in 1.907 seconds
+2024-11-11T18:35:19.026Z - QQQ.us: update in 0 seconds
+2024-11-11T18:35:19.034Z - SPY.us: update in 0 seconds
+2024-11-11T18:35:19.262Z - GOOG.us: update in 0.321 seconds
+2024-11-11T18:35:19.262Z - AAPL.us: update in 0.779 seconds
+2024-11-11T18:35:19.263Z - TSLA.us: update in 0.337 seconds
+2024-11-11T18:35:19.263Z - GOOG.ext: update in 0.321 seconds
+2024-11-11T18:35:19.382Z - Subscribe success
+2024-11-11T18:35:19.532Z - QQQ.us: update in 1 seconds
+2024-11-11T18:35:19.533Z - SPY.us: update in 0 seconds
+2024-11-11T18:35:19.609Z - SPX500: update in 1.248 seconds
+2024-11-11T18:35:19.663Z - GOOG.us: update in 0.607 seconds
+2024-11-11T18:35:19.663Z - TSLA.us: update in 0.555 seconds
+2024-11-11T18:35:19.663Z - GOOG.ext: update in 0.606 seconds
+2024-11-11T18:35:19.829Z - GBP/USD: update in 2.237 seconds
+2024-11-11T18:35:20.028Z - SPY.us: update in 0 seconds
+2024-11-11T18:35:20.030Z - QQQ.us: update in 0 seconds
+2024-11-11T18:35:20.100Z - SPX500: update in 0.456 seconds
+2024-11-11T18:35:20.100Z - US30: update in 1.223 seconds
+2024-11-11T18:35:20.119Z - TSLA.us: update in 0.447 seconds
+2024-11-11T18:35:20.119Z - GOOG.us: update in 0.393 seconds
+2024-11-11T18:35:20.120Z - GOOG.ext: update in 0.393 seconds
+2024-11-11T18:35:20.202Z - EUR/USD: update in 6.674 seconds
+2024-11-11T18:35:20.203Z - XAG/USD: update in 4.236 seconds
+2024-11-11T18:35:20.203Z - XAU/USD: update in 1.632 seconds
+2024-11-11T18:35:20.202Z - GBP/USD: update in 0.238 seconds
+2024-11-11T18:35:20.265Z - Subscribe success
+2024-11-11T18:35:20.532Z - SPX500: update in 0.077 seconds
+2024-11-11T18:35:20.537Z - SPY.us: update in 0 seconds
+2024-11-11T18:35:20.538Z - QQQ.us: update in 1 seconds
+2024-11-11T18:35:20.549Z - GOOG.us: update in 0.2 seconds
+2024-11-11T18:35:20.550Z - GOOG.ext: update in 0.2 seconds
+2024-11-11T18:35:20.549Z - TSLA.us: update in 0.472 seconds
+2024-11-11T18:35:20.632Z - XAU/USD: update in 0.257 seconds
+2024-11-11T18:35:20.633Z - XAG/USD: update in 0.406 seconds
